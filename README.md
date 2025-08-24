@@ -1,6 +1,6 @@
 # 🛒 EcomStore – Spring Boot Shopping Cart Application
 
-EcomStore is a full-featured e-commerce shopping cart application built using **Spring Boot**, **Spring MVC**, **Thymeleaf**, and **JPA/Hibernate**. It includes user authentication, product management, cart functionality, and order processing — everything needed for a basic online store setup.
+EcomStore is a full-featured e-commerce shopping cart application built using **Spring Boot**. It includes user authentication, product management, cart functionality, and order processing — everything needed for a basic online store setup.
 
 ---
 
