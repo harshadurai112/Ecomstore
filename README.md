@@ -17,7 +17,7 @@ EcomStore is a full-featured e-commerce shopping cart application built using **
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Spring Boot, Spring Security, Spring Data JPA
+- **Backend**: Spring Boot
 - **Frontend**: Thymeleaf, HTML5, Bootstrap
 - **Database**: MySQL Selenium scripts for testing
 - **Build Tool**: Maven
